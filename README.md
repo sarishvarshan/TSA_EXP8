@@ -1,7 +1,7 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 04/11/2025
 ### Name: Sarish Varshan V
-### AIM:
+### AIM: 
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
 1. Import necessary libraries
